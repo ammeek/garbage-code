@@ -1,1 +1,2 @@
-exit()
+while True:
+  print("work")
