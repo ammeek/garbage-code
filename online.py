@@ -1,2 +1,3 @@
 while True:
-print("work")
+
+	print("work")
